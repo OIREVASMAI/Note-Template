@@ -57,3 +57,5 @@
 其他的功能就按照自己的喜好随意使用即可，没什么特别的规范。
 
 <img src="image/其他格式.png" width="500px" title=其他格式 />
+
+一些学习笔记的模板规范，完全基于自己的码字习惯，只作为参考。[戳我查看](https://github.com/OIREVASMAI/Note-Template "笔记模板").
